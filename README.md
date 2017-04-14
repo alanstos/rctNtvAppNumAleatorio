@@ -29,10 +29,17 @@ install Genymotion https://www.genymotion.com/
 Ambiente MAC
 
 1 baixar o xcode
+
 2 baixar o node js (versao recomendada no site)
+
 3 baixar https://brew.sh/
+
 4 brew install watchman (baixar o watchman)
+
 5  npm install -g react-native-cli (caso seja a primeira vez)
+
 react-native init AwesomeProject
+
 cd AwesomeProject
+
 Open ios/AwesomeProject.xcodeproj and hit run in Xcode.
