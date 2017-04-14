@@ -43,3 +43,5 @@ react-native init AwesomeProject
 cd AwesomeProject
 
 Open ios/AwesomeProject.xcodeproj and hit run in Xcode.
+
+6 react-native run-ios
